@@ -1,0 +1,6 @@
+Cliente: Gramar
+Dirección: Dirección predeterminada
+Modelo del Equipo: Modelo predeterminado
+Voltaje: Voltaje predeterminado
+Problema Manifestado: ruido
+Trabajo Realizado: 
